@@ -17,7 +17,7 @@ This file contains text generation with LLM using RAG and exporting LLM result C
 </details>
 
 <details>
-<summary>3. **results_evaluate.py**</summary>
+**<summary>3. results_evaluate.py</summary>**
 This file contains post-processing of LLM results and pre-processing of Eilts' results. It also applies ranking to both results and calculates correlation coefficients for them.
 
 </details>
