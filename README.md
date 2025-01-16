@@ -90,7 +90,7 @@ This file contains plotting LLM results.
 
 ![Repetition Penalty for AA](images/rep-AA.png)
 
-![Repetition Penalty for IEA](images/rep-IE.png)
+![Repetition Penalty for IEA](images/rep-IEA.png)
 
 ![Repetition Penalty for MI](images/rep-MI.png)
 
