@@ -29,3 +29,11 @@ This file contains plotting LLM results.
 ![Bibliography Result](images/bib-AA.png)
 
 ![Bibliography Result](images/bib-MI.png)
+
+### LLMs Comparison
+
+![Bibliography Result](images/llm-models-AA-S.png)
+
+![Bibliography Result](images/llm-models-IEA-S.png)
+
+![Bibliography Result](images/llm-models-MI-S.png)
