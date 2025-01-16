@@ -1,0 +1,169 @@
+Document,Region,Frequency Band
+10.pdf,Alpha desynchronization,Theta
+10.pdf,Frontal,Theta
+10.pdf,Central,Theta
+10.pdf,Motor,Theta
+10.pdf,Parietal,Theta
+10.pdf,Temporal,Theta
+35.pdf,Pre-motor cortex,Theta
+35.pdf,Supplementary motor cortex,Theta
+35.pdf,Visual-motor task,Theta
+37.pdf,Temporal-Spectral Evolution Method,Theta
+37.pdf,Visual Cortex,Theta
+37.pdf,Neurons,Theta
+37.pdf,Functional Grouping,Theta
+37.pdf,Low-Frequency Stimuli,Theta
+37.pdf,High-Frequency Stimuli,Theta
+MI8.pdf,Motor Imagery Classification,Alpha
+MI8.pdf,Lesions,Alpha
+MI8.pdf,Deep Sleep,Alpha
+MI8.pdf,Motion Artefacts,Alpha
+MI12.pdf,Frontal,Alpha
+MI2.pdf,Motor Imagery,Alpha
+MI2.pdf,Motor Imagery,Alpha
+MI15.pdf,Frontal,Alpha
+MI15.pdf,Central,Alpha
+MI15.pdf,Motor,Alpha
+MI15.pdf,Parietal,Alpha
+MI15.pdf,Temporal,Alpha
+MI15.pdf,Occipital,Alpha
+MI10.pdf,Frontal,Alpha
+MI10.pdf,Central,Alpha
+MI10.pdf,Motor,Alpha
+MI10.pdf,Parietal,Alpha
+MI10.pdf,Temporal,Alpha
+MI10.pdf,Occipital,Alpha
+MI7.pdf,"df = pd.read_csv('input.txt', sep='",Alpha
+MI13.pdf,Frontal,Theta
+MI13.pdf,Central,Theta
+36.pdf,Primary Motor Cortex,Theta
+36.pdf,Supplementary Motor Area,Theta
+MI14.pdf,Frontal,Theta
+MI14.pdf,Occipital,Alpha
+40.pdf,Left Frontal Cortex,Alpha
+40.pdf,Left Frontal Cortex,Theta
+40.pdf,Left Frontal Cortex,Alpha
+40.pdf,Left Frontal Cortex,Beta
+40.pdf,Left Frontal Cortex,Alpha
+46.pdf,- Frontal lobe,Beta
+46.pdf,- Temporal lobe,Beta
+46.pdf,- Parietal lobe,Beta
+46.pdf,- Occipital lobe,Beta
+46.pdf,- Cerebellum,Beta
+46.pdf,- Thalamus,Beta
+46.pdf,- Hypothalamus,Beta
+46.pdf,- Amygdala,Beta
+46.pdf,- Hippocampus,Beta
+46.pdf,- Corpus callosum,Beta
+46.pdf,- Basal ganglia,Beta
+46.pdf,- Brainstem,Beta
+46.pdf,- Spinal cord,Beta
+AA1.pdf,Frontal,Alpha
+AA1.pdf,Central,Beta
+AA1.pdf,Parietal,Alpha
+AA1.pdf,Motor,Alpha
+AA1.pdf,Temporal,Alpha
+AA1.pdf,Occipital,Alpha
+AA8.pdf,Frontal,Alpha
+AA8.pdf,Central,Alpha
+AA8.pdf,Motor,Alpha
+AA8.pdf,Parietal,Alpha
+AA8.pdf,Temporal,Alpha
+AA8.pdf,Occipital,Alpha
+44.pdf,- Visual Cortex,Alpha
+44.pdf,- Auditory Cortex,Alpha
+44.pdf,- Parietal Cortex,Alpha
+48.pdf,- Auditory Cortex,Theta
+48.pdf,- Visual Cortex,Alpha
+AA5.pdf,Frontal,Alpha
+AA5.pdf,Temporal,Alpha
+AA5.pdf,Auditory Cortex,Alpha
+38.pdf,FrontalNetwork,Theta
+38.pdf,AnteriorandPosteriorCingulate,Theta
+38.pdf,TheTemporalCortexNetworkforAuditoryAttention,Theta
+38.pdf,PassiveListening,Theta
+47.pdf,- Scientific RepoRtS,Alpha
+47.pdf,- Scientific RepoRtS,Theta
+47.pdf,- Scientific RepoRtS,Alpha
+47.pdf,- Scientific RepoRtS,Beta
+47.pdf,- Scientific RepoRtS,Alpha
+47.pdf,- Magnetoencephalography,Alpha
+47.pdf,- Magnetoencephalography,Theta
+47.pdf,- Magnetoencephalography,Alpha
+47.pdf,- Magnetoencephalography,Beta
+47.pdf,- Magnetoencephalography,Alpha
+AA7.pdf,Frontal,Theta
+AA7.pdf,Central,Theta
+AA7.pdf,Motor,Theta
+AA7.pdf,Parietal,Theta
+AA7.pdf,Temporal,Theta
+AA7.pdf,Occipital,Theta
+43.pdf,Temporal,Alpha
+43.pdf,Parietal,Alpha
+AA6.pdf,- Developing Decoding Algorithms,Theta
+AA6.pdf,- Endogenous Attention Switching,Theta
+AA6.pdf,- Multitalker Listening Environments,Theta
+AA6.pdf,- Experimental Protocol,Theta
+AA6.pdf,- Competing Talkers,Theta
+AA6.pdf,- Successful Switching,Theta
+AA6.pdf,- Significant Difference,Theta
+AA6.pdf,- Instructed Switching,Theta
+AA6.pdf,- Allowed Switching,Theta
+AA6.pdf,- Overall Findings,Theta
+IEA4.pdf,Frontal,Alpha
+IEA4.pdf,Central,Alpha
+IEA4.pdf,Motor,Alpha
+IEA4.pdf,Parietal,Alpha
+54.pdf,NO LOCATION,Alpha
+54.pdf,NO LOCATION,Theta
+54.pdf,NO LOCATION,Alpha
+54.pdf,NO LOCATION,Beta
+54.pdf,NO LOCATION,Alpha
+IEA7.pdf,Parietal,Alpha
+IEA7.pdf,Frontal,Alpha
+IEA8.pdf,Primary somatosensory cortex (S1),Alpha
+IEA8.pdf,Primary somatosensory cortex (S1),Alpha
+IEA10.pdf,Frontal,Theta
+IEA10.pdf,Parietal,Theta
+52.pdf,Frontal,Theta
+52.pdf,Central,Theta
+52.pdf,Motor,Theta
+52.pdf,Parietal,Theta
+52.pdf,Temporal,Theta
+52.pdf,Occipital,Theta
+IEA1.pdf,Frontal,Alpha
+IEA1.pdf,Frontal,Theta
+53.pdf,Frontal,Alpha
+53.pdf,Central,Alpha
+53.pdf,Motor,Alpha
+53.pdf,Parietal,Alpha
+53.pdf,Temporal,Alpha
+53.pdf,Occipital,Alpha
+IEA3.pdf,Frontal,Alpha
+IEA3.pdf,Frontal,Theta
+IEA3.pdf,Frontal,Alpha
+IEA3.pdf,Frontal,Beta
+IEA3.pdf,Frontal,Alpha
+IEA3.pdf,Frontal,Alpha
+55.pdf,Frontal,Alpha
+55.pdf,Frontal,Alpha
+55.pdf,Frontal,Theta
+IEA5.pdf,Occipital Cortex,Alpha
+IEA5.pdf,Frontal Cortex,Alpha
+51.pdf,Right parietal cortex,Alpha
+50.pdf,Frontal,Theta
+50.pdf,Central,Theta
+50.pdf,Motor,Theta
+50.pdf,Parietal,Theta
+50.pdf,Temporal,Theta
+50.pdf,Occipital,Theta
+17.pdf,Frontal,Alpha
+17.pdf,Frontal,Theta
+17.pdf,Parietal,Alpha
+IEA6.pdf,Left Occipital Cortex,Alpha
+IEA6.pdf,Left Occipital Cortex,Alpha
+IEA6.pdf,Central,Alpha
+IEA6.pdf,Central,Alpha
+56.pdf,Parietal,Theta
+56.pdf,Parietal,Alpha
+56.pdf,Frontal,Alpha

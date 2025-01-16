@@ -1,0 +1,198 @@
+Document,Region,Frequency Band
+10.pdf,Occipital Cortex,Alpha
+10.pdf,Sensorimotor Cortex,Alpha
+10.pdf,Auditory Cortex,Alpha
+10.pdf,Neocortical Portion of Mid-Temporal Remotor Area SMA,Alpha
+34.pdf,Left Premotor Cluster,Theta
+34.pdf,Right Premotor Cluster,Theta
+35.pdf,Cortex,Theta
+35.pdf,Supplementary Motor Cortex,Theta
+37.pdf,Frontal,Theta
+37.pdf,Central,Theta
+37.pdf,Motor,Theta
+37.pdf,Parietal,Theta
+37.pdf,Temporal,Theta
+37.pdf,Occipital,Theta
+MI12.pdf,Sensorimotor Cortex,Beta
+MI12.pdf,No Location,Theta
+MI4.pdf,Frontal,Theta
+MI4.pdf,Central,Theta
+MI4.pdf,Motor,Theta
+MI4.pdf,Parietal,Theta
+MI4.pdf,Temporal,Theta
+MI4.pdf,Occipital,Theta
+MI3.pdf,C3,Theta
+MI3.pdf,C4,Theta
+MI1.pdf,- Frontal lobe,Theta
+MI1.pdf,- Parietal lobe,Theta
+MI1.pdf,- Temporal lobe,Theta
+MI1.pdf,- Occipital lobe,Theta
+MI5.pdf,- Frontal,Alpha
+MI5.pdf,- Frontal,Alpha
+MI10.pdf,Location,Alpha
+MI10.pdf,Frontal,Alpha
+MI10.pdf,Central,Alpha
+MI10.pdf,Motor,Alpha
+MI10.pdf,Parietal,Alpha
+MI10.pdf,Temporal,Alpha
+MI10.pdf,Occipital,Alpha
+MI6.pdf,Theta,Alpha
+MI6.pdf,"- Ensure that each line follows the format: ""Location",Alpha
+MI6.pdf,Alpha,Alpha
+MI6.pdf,"- Ensure that each line follows the format: ""Location",Alpha
+MI6.pdf,Beta,Alpha
+MI6.pdf,"- Ensure that each line follows the format: ""Location",Alpha
+MI13.pdf,Frontal,Theta
+MI13.pdf,Central,Theta
+MI13.pdf,Motor,Theta
+MI13.pdf,Parietal,Theta
+36.pdf,Sensorimotor Cortex,Alpha
+36.pdf,Sensorimotor Cortex,Beta
+36.pdf,Vertex,Beta
+36.pdf,Contralateral Sensorimotor Areas,Alpha
+40.pdf,Frontal,Theta
+40.pdf,Central,Theta
+40.pdf,Motor,Theta
+40.pdf,Parietal,Theta
+40.pdf,Temporal,Theta
+40.pdf,Occipital,Theta
+41.pdf,Frontal,Theta
+41.pdf,Central,Theta
+41.pdf,Motor,Theta
+41.pdf,Parietal,Theta
+41.pdf,Temporal,Theta
+46.pdf,Frontal,Beta
+46.pdf,Motor,Beta
+46.pdf,Frontal,Beta
+46.pdf,Central,Beta
+46.pdf,Motor,Beta
+46.pdf,Central,Beta
+46.pdf,Frontal,Beta
+AA1.pdf,Motor Cortex,Alpha
+AA1.pdf,Motor Cortex,Beta
+AA8.pdf,Frontal,Theta
+AA8.pdf,Parietal,Theta
+AA8.pdf,Occipital,Theta
+AA8.pdf,Temporal,Theta
+44.pdf,Visual Cortex,Alpha
+44.pdf,Parietal Cortex,Alpha
+44.pdf,Auditory Cortex,Alpha
+44.pdf,Posterior Cortex,Alpha
+42.pdf,Frontal,Alpha
+42.pdf,Frontal,Theta
+AA4.pdf,Frontal,Alpha
+AA4.pdf,Temporal,Alpha
+AA4.pdf,Parietal,Alpha
+AA4.pdf,Occipital,Alpha
+45.pdf,Frontal,Theta
+45.pdf,Parietal,Theta
+45.pdf,Frontal,Theta
+45.pdf,Temporal,Theta
+45.pdf,Occipital,Theta
+38.pdf,Frontal,Theta
+38.pdf,Central,Theta
+38.pdf,Motor,Theta
+38.pdf,Parietal,Theta
+38.pdf,Temporal,Theta
+38.pdf,Occipital,Theta
+AA2.pdf,Left Sensorimotor Cortex,Alpha
+AA2.pdf,Left Sensorimotor Cortex,Beta
+47.pdf,- Frontal lobe,Theta
+47.pdf,- Temporal lobe,Theta
+47.pdf,- Parietal lobe,Theta
+47.pdf,- Occipital lobe,Theta
+47.pdf,- Cerebellum,Theta
+47.pdf,- Brainstem,Theta
+47.pdf,- NO LOCATION,Theta
+AA3.pdf,Frontal,Alpha
+AA3.pdf,Central,Alpha
+AA3.pdf,Motor,Alpha
+AA3.pdf,Parietal,Alpha
+AA7.pdf,Frontal,Alpha
+AA7.pdf,Frontal,Theta
+AA7.pdf,Frontal,Alpha
+AA7.pdf,Central,Beta
+AA7.pdf,Central,Alpha
+39.pdf,Frontal,Theta
+39.pdf,Central,Theta
+39.pdf,Motor,Theta
+AA6.pdf,Frontal,Alpha
+AA6.pdf,Frontal,Theta
+AA6.pdf,Frontal,Alpha
+AA6.pdf,Frontal,Beta
+AA6.pdf,Frontal,Alpha
+54.pdf,- Frontal Lobe,Alpha
+54.pdf,- Frontal Lobe,Theta
+54.pdf,- Temporal Lobe,Alpha
+IEA7.pdf,Frontal,Theta
+IEA7.pdf,Parietal,Theta
+IEA7.pdf,Occipital,Theta
+IEA8.pdf,- Sensorimotor,Theta
+IEA8.pdf,- Oculomotor,Theta
+IEA8.pdf,- Auditory,Theta
+IEA8.pdf,- Visual,Theta
+IEA10.pdf,Frontal,Theta
+IEA10.pdf,Frontoparietal,Theta
+52.pdf,Frontal,Theta
+52.pdf,Central,Theta
+52.pdf,Motor,Theta
+52.pdf,Parietal,Theta
+52.pdf,Temporal,Theta
+52.pdf,Occipital,Theta
+IEA1.pdf,Frontal,Theta
+53.pdf,Frontal,Theta
+53.pdf,Central,Theta
+53.pdf,Motor,Theta
+53.pdf,Parietal,Theta
+53.pdf,Temporal,Theta
+53.pdf,Occipital,Theta
+IEA3.pdf,DMN,Theta
+IEA3.pdf,DAN,Theta
+IEA3.pdf,HGB,Theta
+55.pdf,Right Parietal,Alpha
+55.pdf,Right Occipital,Alpha
+55.pdf,Right Frontal,Alpha
+55.pdf,Left Parietal,Alpha
+55.pdf,Left Frontal,Alpha
+IEA5.pdf,Occipital Cortex,Alpha
+IEA5.pdf,Frontal Cortex,Alpha
+51.pdf,Frontal,Alpha
+51.pdf,Central,Alpha
+51.pdf,Motor,Alpha
+51.pdf,Parietal,Alpha
+51.pdf,Temporal,Alpha
+51.pdf,Occipital,Alpha
+IEA9.pdf,- Frontal,Beta
+IEA9.pdf,- Central,Beta
+IEA9.pdf,- Motor,Beta
+IEA9.pdf,- Parietal,Beta
+IEA9.pdf,- Temporal,Beta
+IEA9.pdf,- Occipital,Beta
+57.pdf,Frontal,Alpha
+57.pdf,Central,Theta
+57.pdf,Motor,Alpha
+57.pdf,Parietal,Beta
+57.pdf,Temporal,Alpha
+57.pdf,Occipital,Alpha
+50.pdf,Frontal,Theta
+50.pdf,Central,Theta
+50.pdf,Motor,Theta
+50.pdf,Parietal,Theta
+50.pdf,Temporal,Theta
+50.pdf,Occipital,Theta
+17.pdf,Frontal,Theta
+17.pdf,Frontal,Alpha
+17.pdf,Central,Theta
+17.pdf,Central,Alpha
+17.pdf,Motor,Theta
+17.pdf,Motor,Alpha
+17.pdf,Parietal,Theta
+17.pdf,Parietal,Alpha
+17.pdf,Temporal,Theta
+17.pdf,Temporal,Alpha
+17.pdf,Occipital,Theta
+17.pdf,Occipital,Alpha
+IEA6.pdf,Left Occipital Cortex,Alpha
+56.pdf,Frontal,Theta
+56.pdf,Parietal,Theta
+56.pdf,Occipital,Alpha

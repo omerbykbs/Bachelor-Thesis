@@ -1,0 +1,127 @@
+Document,Region,Frequency Band
+35.pdf,Frontal,Theta
+35.pdf,Central,Theta
+35.pdf,Motor,Theta
+35.pdf,Parietal,Theta
+35.pdf,Temporal,Alpha
+MI8.pdf,Frontal,Alpha
+MI8.pdf,Frontal,Alpha
+MI8.pdf,Frontal,Alpha
+MI12.pdf,Central beta rhythm (14–29 Hz),Alpha
+MI12.pdf,Beta rhythm (18–25 Hz),Alpha
+MI5.pdf,Left hand,Alpha
+MI5.pdf,Right hand,Alpha
+MI5.pdf,Both feet,Alpha
+MI5.pdf,Rest,Alpha
+MI2.pdf,Motor Imagery,Alpha
+MI2.pdf,Motor Imagery,Alpha
+MI15.pdf,- Frontal,Alpha
+MI15.pdf,- Central,Alpha
+MI15.pdf,- Motor,Alpha
+MI15.pdf,- Parietal,Alpha
+MI15.pdf,- Temporal,Alpha
+MI15.pdf,- Occipital,Alpha
+MI10.pdf,Frontal,Theta
+MI7.pdf,Frontal,Theta
+MI7.pdf,Central,Theta
+MI7.pdf,Temporal,Theta
+MI7.pdf,Posterior-parietal,Theta
+MI6.pdf,Frontal,Alpha
+MI6.pdf,Central,Alpha
+MI6.pdf,Motor,Alpha
+MI6.pdf,Parietal,Alpha
+MI6.pdf,Temporal,Alpha
+MI6.pdf,Occipital,Alpha
+36.pdf,Frontal,Alpha
+36.pdf,Central,Alpha
+36.pdf,Frontal,Alpha
+36.pdf,Central,Alpha
+36.pdf,Frontal,Beta
+36.pdf,Central,Beta
+36.pdf,Central,Beta
+36.pdf,Central,Beta
+40.pdf,Frontal,Theta
+40.pdf,Central,Theta
+40.pdf,Motor,Theta
+40.pdf,Parietal,Theta
+46.pdf,Frontal,Theta
+46.pdf,Central,Theta
+46.pdf,Motor,Theta
+46.pdf,Frontal,Theta
+AA1.pdf,Motor Cortex,Alpha
+AA1.pdf,Motor Cortex,Beta
+AA1.pdf,Sensory-Motor Cortical Regions,Alpha
+44.pdf,Frontal,Alpha
+44.pdf,Parietal,Alpha
+44.pdf,Temporal,Alpha
+44.pdf,Occipital,Alpha
+48.pdf,Left Occipital Lobe,Theta
+42.pdf,Frontal,Alpha
+42.pdf,None,Theta
+42.pdf,None,Alpha
+42.pdf,None,Beta
+AA5.pdf,Frontal,Alpha
+AA5.pdf,Temporal,Alpha
+AA5.pdf,Auditory Cortex,Alpha
+45.pdf,- Frontal,Alpha
+45.pdf,- Auditory Cortex,Alpha
+45.pdf,- Visual Cortex,Alpha
+45.pdf,- Motor Cortex,Alpha
+45.pdf,- Somatosensory Cortex,Alpha
+45.pdf,- Prefrontal Cortex,Alpha
+38.pdf,Frontal,Theta
+38.pdf,Central,Theta
+38.pdf,Motor,Theta
+38.pdf,Parietal,Theta
+AA9.pdf,Frontal,Alpha
+AA9.pdf,Central,Alpha
+AA9.pdf,Motor,Alpha
+AA9.pdf,Parietal,Alpha
+AA9.pdf,Temporal,Alpha
+AA3.pdf,Channel 1,Theta
+AA3.pdf,Channel 2,Theta
+AA3.pdf,Channel 3,Theta
+AA3.pdf,Channel 4,Theta
+AA7.pdf,Left Frontal,Alpha
+39.pdf,Location,Alpha
+39.pdf,Frontal,Alpha
+39.pdf,Central,Beta
+39.pdf,Motor,Alpha
+39.pdf,Parietal,Alpha
+39.pdf,Temporal,Theta
+39.pdf,Occipital,Alpha
+54.pdf,Frontal,Theta
+54.pdf,Frontal,Alpha
+IEA8.pdf,Frontal,Alpha
+IEA8.pdf,Central,Alpha
+IEA8.pdf,Motor,Alpha
+IEA8.pdf,Parietal,Alpha
+IEA8.pdf,Temporal,Alpha
+IEA10.pdf,Frontal,Theta
+IEA10.pdf,Central,Theta
+IEA10.pdf,Motor,Theta
+IEA10.pdf,Parietal,Theta
+IEA10.pdf,Temporal,Theta
+IEA10.pdf,Occipital,Theta
+52.pdf,Parietal,Alpha
+IEA1.pdf,LF,Theta
+IEA1.pdf,RF,Theta
+IEA1.pdf,LC,Theta
+55.pdf,Frontal,Alpha
+55.pdf,Frontal,Alpha
+55.pdf,Parietal,Alpha
+51.pdf,Frontal,Alpha
+51.pdf,Right hemisphere,Alpha
+50.pdf,Frontal,Theta
+49.pdf,Frontal,Alpha
+49.pdf,Parietal,Theta
+49.pdf,Working Memory,Theta
+17.pdf,MFG,Alpha
+17.pdf,MFG,Theta
+17.pdf,ACC,Alpha
+17.pdf,ACC,Theta
+17.pdf,ExtAtt,Alpha
+17.pdf,ExtAtt,Theta
+17.pdf,IntAtt,Alpha
+17.pdf,IntAtt,Theta
+IEA6.pdf,Frontal Lobe,Alpha

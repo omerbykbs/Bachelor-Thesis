@@ -1,0 +1,130 @@
+Document,Region,Frequency Band
+10.pdf,Motor Cortex,Alpha
+10.pdf,Barbiturate Anesthesia,Alpha
+10.pdf,Light Sleep,Alpha
+34.pdf,Frontal,Delta
+34.pdf,Frontal,Theta
+34.pdf,Frontal,Alpha
+34.pdf,Frontal,Beta
+34.pdf,Frontal,Gamma
+34.pdf,Central,Delta
+34.pdf,Central,Theta
+34.pdf,Central,Alpha
+34.pdf,Central,Beta
+34.pdf,Central,Gamma
+34.pdf,Motor,Delta
+34.pdf,Motor,Theta
+34.pdf,Motor,Alpha
+34.pdf,Motor,Beta
+34.pdf,Motor,Gamma
+34.pdf,Parietal,Delta
+34.pdf,Parietal,Theta
+34.pdf,Parietal,Alpha
+34.pdf,Parietal,Beta
+34.pdf,Parietal,Gamma
+34.pdf,Temporal,Delta
+34.pdf,Temporal,Theta
+34.pdf,Temporal,Alpha
+34.pdf,Temporal,Beta
+34.pdf,Temporal,Gamma
+34.pdf,Occipital,Delta
+34.pdf,Occipital,Theta
+34.pdf,Occipital,Alpha
+34.pdf,Occipital,Beta
+34.pdf,Occipital,Gamma
+35.pdf,Frontal,Alpha
+35.pdf,Central,Alpha
+35.pdf,Motor,Alpha
+37.pdf,Frontal,Delta
+37.pdf,Central,Theta
+37.pdf,Motor,Alpha
+37.pdf,Parietal,Beta
+37.pdf,Temporal,Gamma
+37.pdf,Occipital,Delta
+MI1.pdf,Frontal,Alpha
+MI1.pdf,Sensorimotor,Beta
+MI2.pdf,Motor Imagery,Alpha
+MI2.pdf,Motor Imagery,Gamma
+MI15.pdf,Frontal,8-13 Hz
+MI15.pdf,Central,18-28 Hz
+MI15.pdf,Motor,8-13 Hz
+MI15.pdf,Parietal,18-28 Hz
+MI15.pdf,Temporal,8-13 Hz
+MI15.pdf,Occipital,18-28 Hz
+40.pdf,Frontal,Theta
+40.pdf,Temporal,Theta
+46.pdf,- Frontal lobe,Beta
+46.pdf,- Temporal lobe,Beta
+AA1.pdf,Motor Cortex,Delta
+AA1.pdf,Motor Cortex,Beta
+42.pdf,Frontal,None
+42.pdf,Central,None
+42.pdf,Motor,None
+42.pdf,Parietal,None
+42.pdf,Temporal,None
+42.pdf,Occipital,None
+AA5.pdf,Frontal,Delta
+AA5.pdf,Temporal,Alpha
+45.pdf,Frontal,Alpha
+45.pdf,Central,Alpha
+45.pdf,Motor,Alpha
+45.pdf,Parietal,Alpha
+45.pdf,Temporal,Alpha
+45.pdf,Occipital,Alpha
+38.pdf,FrontalNetwork,Theta
+38.pdf,AnteriorandPosteriorCingulate,Theta
+AA2.pdf,Left Hemisphere,Alpha
+AA2.pdf,Left Hemisphere,Beta
+AA3.pdf,W1: Frontal,Alpha
+AA3.pdf,W2: Central,Beta
+AA3.pdf,W3: Motor,Gamma
+AA3.pdf,W4: Parietal,Delta
+AA3.pdf,W5: Temporal,Theta
+AA3.pdf,W6: Occipital,Alpha
+AA3.pdf,W7: Frontal,Alpha
+AA3.pdf,W8: Central,Beta
+AA3.pdf,W9: Motor,Gamma
+AA3.pdf,W10: Parietal,Delta
+AA7.pdf,Frontal,Theta
+AA7.pdf,Central,Theta
+AA7.pdf,Motor,Theta
+AA7.pdf,Parietal,Theta
+AA7.pdf,Temporal,Theta
+AA7.pdf,Occipital,Theta
+IEA4.pdf,Frontal,4 ]5 Hz
+IEA4.pdf,Central,4 ]5 Hz
+IEA4.pdf,Motor,4 ]5 Hz
+IEA4.pdf,Parietal,4 ]5 Hz
+54.pdf,1. Frontal,Theta
+54.pdf,2. Central,Delta
+54.pdf,3. Motor,Alpha
+54.pdf,4. Parietal,Beta
+IEA7.pdf,Occipital,Gamma
+IEA7.pdf,Parietal,Gamma
+IEA10.pdf,Frontal,Theta
+IEA10.pdf,Parietal,Theta
+IEA10.pdf,Occipital,Theta
+55.pdf,Frontal,Alpha
+55.pdf,Frontal,Gamma
+55.pdf,Frontal,Theta
+51.pdf,Right parietal cortex,Alpha
+57.pdf,Frontal,Alpha
+57.pdf,Parietal,Alpha
+57.pdf,Occipital,Alpha
+57.pdf,Temporal,Alpha
+57.pdf,Cerebellum,Alpha
+57.pdf,Thalamus,Alpha
+57.pdf,Hypothalamus,Alpha
+57.pdf,Amygdala,Alpha
+57.pdf,Hippocampus,Alpha
+57.pdf,Corpus Callosum,Alpha
+57.pdf,Basal Ganglia,Alpha
+57.pdf,Brainstem,Alpha
+57.pdf,Spinal Cord,Alpha
+57.pdf,Autonomic Nervous System,Alpha
+57.pdf,Sympathetic Nervous System,Alpha
+57.pdf,Parasympathetic Nervous System,Alpha
+17.pdf,Frontal,Alpha
+17.pdf,Frontal,Theta
+17.pdf,Parietal,Alpha
+17.pdf,Parietal,Theta

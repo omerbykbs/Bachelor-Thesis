@@ -1,0 +1,137 @@
+Document,Region,Frequency Band
+10.pdf,Alpha desynchronization,Theta
+10.pdf,Synchronization,Theta
+10.pdf,Coupling,Theta
+10.pdf,Movement,Theta
+10.pdf,Motor area,Theta
+10.pdf,Alpha rhythms,Alpha
+10.pdf,Mu rhythms,Alpha
+35.pdf,Pre-motor cortex,Theta
+35.pdf,Supplementary motor cortex,Theta
+37.pdf,Frontal,Alpha
+37.pdf,Central,Theta
+37.pdf,Motor,Alpha
+37.pdf,Parietal,Beta
+37.pdf,Temporal,Alpha
+37.pdf,Occipital,Alpha
+MI3.pdf,Frontal,Alpha
+MI3.pdf,Frontal,Theta
+MI3.pdf,Frontal,Alpha
+MI3.pdf,Frontal,Beta
+MI1.pdf,NO LOCATION,Alpha
+MI1.pdf,NO LOCATION,Beta
+MI1.pdf,NO LOCATION,Alpha
+MI10.pdf,Frontal,Theta
+MI10.pdf,Central,Theta
+MI10.pdf,Motor,Theta
+MI10.pdf,Parietal,Theta
+MI10.pdf,Temporal,Theta
+MI10.pdf,Occipital,Theta
+MI6.pdf,Frontal,Alpha
+MI6.pdf,Frontal,Theta
+MI6.pdf,Frontal,Alpha
+MI13.pdf,Frontal,Theta
+MI13.pdf,Central,Theta
+MI13.pdf,Motor,Theta
+MI14.pdf,Location,Alpha
+MI14.pdf,Frontal Theta Rhythm,Alpha
+MI14.pdf,Posterior Alpha Rhythm,Alpha
+MI14.pdf,"- Ensure that each line follows the format: ""Location",Alpha
+MI14.pdf,Location,Alpha
+MI14.pdf,Frontal,Alpha
+MI14.pdf,Central,Alpha
+MI14.pdf,Motor,Alpha
+MI14.pdf,Parietal,Alpha
+40.pdf,Frontal,Theta
+40.pdf,Temporal,Alpha
+46.pdf,- Frontal,Beta
+46.pdf,- Temporal,Beta
+46.pdf,- Parietal,Beta
+46.pdf,- Occipital,Beta
+AA1.pdf,Motor Cortex,Beta
+AA1.pdf,Parietal Regions,Beta
+AA1.pdf,Cortico-Striatal Network,Beta
+AA1.pdf,Perception-Action Loop,Beta
+44.pdf,Frontal,Alpha
+44.pdf,Central,Alpha
+44.pdf,Motor,Alpha
+44.pdf,Parietal,Alpha
+44.pdf,Temporal,Alpha
+44.pdf,Occipital,Alpha
+48.pdf,- Auditory Steady-State Response,Theta
+48.pdf,- Magnetoencephalography,Theta
+48.pdf,- Electroencephalography,Theta
+48.pdf,- Lateralization of Alpha Power Bands,Theta
+48.pdf,- Envelope of Attended Speech Stream,Theta
+48.pdf,- Neural Brain Activity,Theta
+48.pdf,- Single-Trial MEG Data,Theta
+42.pdf,Frontal,Theta
+42.pdf,Central,Theta
+AA5.pdf,Temporal,Alpha
+AA5.pdf,Auditory Cortex,Alpha
+45.pdf,- Auditory Cortex,Alpha
+45.pdf,- Sensory Areas,Alpha
+45.pdf,- Motor Areas,Alpha
+45.pdf,- Neural Tissue,Alpha
+45.pdf,- Cortical Areas,Alpha
+38.pdf,Frontal Network,Theta
+38.pdf,Anterior Cingulate,Theta
+38.pdf,Posterior Cingulate,Theta
+47.pdf,split_string = row['Context'].split(',Alpha
+AA3.pdf,W1,Alpha
+AA3.pdf,W2,Alpha
+AA3.pdf,W3,Alpha
+AA3.pdf,W4,Alpha
+AA3.pdf,W5,Alpha
+AA7.pdf,Frontal,Theta
+AA7.pdf,Central,Theta
+AA7.pdf,Motor,Theta
+AA7.pdf,Parietal,Theta
+AA7.pdf,Temporal,Theta
+AA7.pdf,Occipital,Theta
+IEA4.pdf,Frontal,Alpha
+54.pdf,NO LOCATION,Alpha
+54.pdf,NO LOCATION,Theta
+54.pdf,NO LOCATION,Alpha
+54.pdf,NO LOCATION,Beta
+54.pdf,NO LOCATION,Alpha
+IEA7.pdf,Visual Cortex,Alpha
+IEA7.pdf,Auditory Cortex,Alpha
+IEA8.pdf,Layer 2/3,Alpha
+IEA8.pdf,Layer 4,Alpha
+IEA10.pdf,Frontal,Theta
+IEA10.pdf,Parietal,Theta
+IEA10.pdf,Occipital,Theta
+52.pdf,Default Network (DN),Theta
+52.pdf,Dorsal Attention Network (DAN),Theta
+52.pdf,Ventral Attention Network (VAN),Theta
+52.pdf,Salience Network (SN),Theta
+IEA1.pdf,Frontal,Theta
+IEA1.pdf,Occipital,Theta
+53.pdf,Frontal,Alpha
+53.pdf,Occipital,Alpha
+53.pdf,Parietal,Alpha
+53.pdf,Temporal,Alpha
+55.pdf,Frontal,Alpha
+55.pdf,Frontal,Alpha
+55.pdf,Frontal,Theta
+IEA5.pdf,Occipital Cortex,Alpha
+IEA5.pdf,Frontal Cortex,Alpha
+51.pdf,Right parietal cortex,Alpha
+57.pdf,Frontal,Alpha
+57.pdf,Central,Alpha
+57.pdf,Motor,Alpha
+57.pdf,Parietal,Alpha
+57.pdf,Temporal,Alpha
+57.pdf,Occipital,Alpha
+17.pdf,1. Frontal,Theta
+17.pdf,2. Occipital,Alpha
+IEA6.pdf,Frontal Lobe,Alpha
+IEA6.pdf,Frontal Lobe,Alpha
+IEA6.pdf,Temporal Lobe,Alpha
+IEA6.pdf,Temporal Lobe,Alpha
+IEA2.pdf,No Location,Theta
+56.pdf,"Theta Department of Experimental Psychology, University of Ghent, Ghent, Belgium",Alpha
+56.pdf,"Alpha Department of Experimental Psychology, University of Ghent, Ghent, Belgium",Alpha
+56.pdf,"Beta Department of Experimental Psychology, University of Ghent, Ghent, Belgium",Alpha
+56.pdf,"Gamma Department of Experimental Psychology, University of Ghent, Ghent, Belgium",Alpha
