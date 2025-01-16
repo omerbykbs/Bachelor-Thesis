@@ -28,6 +28,10 @@ This file contains plotting LLM results.
 
 </details>
 
+**Knowledge Base:** data/pdf_documents 
+
+
+
 ---
 
 ## System Design
