@@ -33,9 +33,9 @@ This file contains post-processing of LLM results and pre-processing of Eilts' r
 4. **results_plotting.ipynb**
 This file contains plotting LLM results.
 
-**Knowledge Base:** 20 documents per topic in [pdf_documents Directory](./data/pdf_documents) directory
+**Knowledge Base:** 20 documents per topic in [pdf_documents](./data/pdf_documents) directory.
 
-**Ground Truth:** Ranked results from Eilts' master thesis (Eilts, Hendrik. „Bridging the Gap: Explainable AI Insights Into EEGNet Classification and Its Alignment to Neural Correlates“. Advisor: Dr. Felix Putze; Reviewers: Dr. Felix Putze, Prof. Dr. Marvin Wright. MA thesis. Bremen, Germany: University of Bremen, Cognitive Systems Lab, Mar. 2024.) in [Results Directory](./data/results/ground_truth)
+**Ground Truth:** Ranked results from Eilts' master thesis (Eilts, Hendrik. „Bridging the Gap: Explainable AI Insights Into EEGNet Classification and Its Alignment to Neural Correlates“. Advisor: Dr. Felix Putze; Reviewers: Dr. Felix Putze, Prof. Dr. Marvin Wright. MA thesis. Bremen, Germany: University of Bremen, Cognitive Systems Lab, Mar. 2024.) in [results](./data/results/ground_truth) directory.
 
 ---
 
@@ -43,23 +43,24 @@ This file contains plotting LLM results.
 
 ### Removing Bibliography Part From Document
 
-<details>
-<summary>Click to view bibliography results</summary>
-
 ![Bibliography Result](images/bib-AA.png)
 
 ![Bibliography Result](images/bib-IEA.png)
 
 ![Bibliography Result](images/bib-MI.png)
 
-</details>
 
----
+### Chunk & Overlap Size
+
+![Chunk & Overlap Size Result](images/chunk-size-AA-S.png)
+
+![Chunk & Overlap Size Result](images/chunk-size-IEA-S.png)
+
+![Chunk & Overlap Size Result](images/chunk-size-MI-S.png)
+
+
 
 ### LLMs Comparison
-
-<details>
-<summary>Click to view LLM comparison results</summary>
 
 ![LLM Models Comparison for AA](images/llm-models-AA-S.png)
 
@@ -67,4 +68,3 @@ This file contains plotting LLM results.
 
 ![LLM Models Comparison for MI](images/llm-models-MI-S.png)
 
-</details>
