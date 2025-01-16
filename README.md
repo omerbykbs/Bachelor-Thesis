@@ -5,7 +5,7 @@
 - [System Design](#system-design)
 - [File Overview](#file-overview)
 - [Results](#results)
-- [Tools Used](#tools-used)
+- [Libraries and Frameworks](#libraries-and-frameworks)
 
 ## 📘 Introduction
 This thesis utilizes cosine similarity and large language model (LLM) with Retrieval Augmented Generation (RAG) to extract information from neuroscientific documents containing information about three electroencephalography (EEG) topics motor imagery, auditory attention, internal- external attention. The aim is to automate structured knowledge extraction from these documents in a faster and more precise way,
@@ -88,11 +88,9 @@ This file contains plotting LLM results.
 
 ![Repetition Penalty for MI](images/rep-MI.png)
 
-## Tools Used
-
 ## Libraries and Frameworks
 
-## Programming Language
+### Programming Language
 - **Python**: Core language for implementation.
 
 ### Machine Learning & NLP
@@ -121,17 +119,14 @@ This file contains plotting LLM results.
 ### Logging
 - **logging**: Error tracking and debugging.
 
-## Models and Data
+### Models and Data
 - **Meta-Llama-3.1-70B-AQLM-PV**, **Meta-Llama-3-8B-Instruct**, **Meta-Llama-3.1-8B-Instruct**: LLM for text generation.
 - **sentence-transformers/all-MiniLM-L6-v2**: Embedding generation.
 - **Datasets**: Neuroscientific PDFs (Motor Imagery, Auditory Attention, IE Attention), Hendrik's XAI Results.
 
-## Integrated Methodologies
+### Integrated Methodologies
 - **Semantic Processing**: Domain-specific, recursive, and semantic chunking for text segmentation.
 - **Retrieval-Augmented Generation (RAG)**: Combines FAISS-based retrieval with LLMs for enhanced knowledge extraction.
 - **Chain-of-Thought Prompting**: Enables structured and logical reasoning in prompts.
 - **Knowledge Augmentation**: Injects domain-specific mappings (brain regions, electrode locations) for context precision.
 - **Correlation Analysis**: Spearman’s and Kendall’s tau for ranking validation.
-
-## Numerical Operations
-- **NumPy**: Vector and matrix computations.
