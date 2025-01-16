@@ -1,4 +1,12 @@
-# Automated Extraction and Structuring of Relevant Information from Neuroscientific Documents Using Cosine Similarity and Large Language Model (LLM)
+# 🎓 Bachelor Thesis: Automated Extraction and Structuring of Relevant Information from Neuroscientific Documents Using Cosine Similarity and Large Language Model (LLM)
+
+## 📑 Table of Contents
+- [Introduction](#introduction)
+- [System Design](#methodology)
+- [Results](#results)
+- [Tools Used](#tools-used)
+
+## 📑 Introduction
 
 ## Overview
 
