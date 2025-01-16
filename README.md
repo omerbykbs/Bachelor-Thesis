@@ -89,98 +89,49 @@ This file contains plotting LLM results.
 ![Repetition Penalty for MI](images/rep-MI.png)
 
 ## Tools Used
-# Tools and Frameworks Used
 
-## 1. Programming Language
-- **Python**: The primary language used for implementing the workflow.
+## Libraries and Frameworks
 
-## 2. Libraries and Frameworks
+## Programming Language
+- **Python**: Core language for implementation.
 
 ### Machine Learning & NLP
-- **torch**: A deep learning framework for handling models like Meta-Llama.
-- **transformers**: Hugging Face library for model loading and text generation pipelines.
-  - `AutoTokenizer` and `AutoModelForCausalLM`: Used for loading and managing the LLM (e.g., Meta-Llama-3.1-70B-AQLM-PV).
-  - `pipeline`: A high-level abstraction for running inference tasks like text generation.
-- **sentence-transformers**: For semantic embeddings like `all-MiniLM-L6-v2`.
-  - `HuggingFaceEmbeddings` and `SentenceTransformer`: Used for embedding documents and sentences for similarity calculations.
-- **langchain_community**:
-  - `HuggingFacePipeline`: Integration for Hugging Face pipelines.
-  - `PyPDFLoader`: PDF document loader for text extraction.
-  - `RecursiveCharacterTextSplitter`: Splits text into chunks for processing.
-  - `LLMChain`: Manages chain logic for large language models with prompt templates.
-  - `PromptTemplate`: Templates for generating summaries, extracting relevant bands, formatting, and applying chain-of-thought prompting.
-- **FAISS**: Vector database for similarity-based retrieval and indexing.
+- **torch**: Deep learning framework for handling models like Meta-Llama.
+- **transformers**: Hugging Face library for model management and text generation.
+- **sentence-transformers**: For semantic embeddings (e.g., `all-MiniLM-L6-v2`).
+- **LangChain**:
+  - Tools: `LLMChain`, `PromptTemplate`, `HuggingFacePipeline`, `PyPDFLoader`, `RecursiveCharacterTextSplitter`.
+  - Use Cases: LLM integration, PDF text extraction, and chunking.
+- **FAISS**: Vector database for document retrieval and similarity search.
 
 ### Statistical Analysis
-- **scipy.stats**:
-  - `spearmanr`: For Spearman's rank correlation.
-  - `kendalltau`: For Kendall's Tau correlation.
-- **numpy**: For numerical computations, vector operations, and cosine similarity.
-- **pandas**: For data manipulation, analysis, and saving results in CSV format.
-
-### Data Handling
-- **joblib**: For loading serialized objects.
-- **os** and **pathlib**: For file handling and path operations.
+- **scipy.stats**: Correlation metrics (`spearmanr`, `kendalltau`).
+- **numpy**: Numerical computations, including cosine similarity.
+- **pandas**: Data analysis and CSV handling.
 
 ### Text Processing
-- **re**: Regular expressions for cleaning and preprocessing data.
-- **nltk**: For sentence tokenization and semantic chunking.
-- **spaCy**: For semantic chunking, lemmatization, stopword removal, and tokenization.
+- **nltk**: Sentence tokenization for semantic chunking.
+- **spaCy**: Preprocessing, lemmatization, and fallback chunking.
+- **re**: Regular expressions for text cleaning and processing.
+
+### Data Handling and Filesystem
+- **os**, **pathlib**: File and directory management.
+- **joblib**: Serialization of models and data.
 
 ### Logging
-- **logging**: Captures and debugs processing errors, storing logs in a file (`faiss_debug_dev.log`).
+- **logging**: Error tracking and debugging.
 
-## 3. Models and Data
+## Models and Data
+- **Meta-Llama-3.1-70B-AQLM-PV**, **Meta-Llama-3-8B-Instruct**, **Meta-Llama-3.1-8B-Instruct**: LLM for text generation.
+- **sentence-transformers/all-MiniLM-L6-v2**: Embedding generation.
+- **Datasets**: Neuroscientific PDFs (Motor Imagery, Auditory Attention, IE Attention), Hendrik's XAI Results.
 
-### Pretrained Models
-- **Meta-Llama-3.1-70B-AQLM-PV**: Used for text generation and LLM-based tasks.
-- **sentence-transformers/all-MiniLM-L6-v2**: Used for embedding generation.
+## Integrated Methodologies
+- **Semantic Processing**: Domain-specific, recursive, and semantic chunking for text segmentation.
+- **Retrieval-Augmented Generation (RAG)**: Combines FAISS-based retrieval with LLMs for enhanced knowledge extraction.
+- **Chain-of-Thought Prompting**: Enables structured and logical reasoning in prompts.
+- **Knowledge Augmentation**: Injects domain-specific mappings (brain regions, electrode locations) for context precision.
+- **Correlation Analysis**: Spearman’s and Kendall’s tau for ranking validation.
 
-### Datasets
-- **Hendrik's XAI Results**: Preprocessed data for correlation and comparison.
-- **Neuroscientific PDF Documents**: From directories such as Motor Imagery, Auditory Attention, and Internal/External Attention.
-
-## 4. Semantic Chunking
-
-### Techniques
-- **RecursiveCharacterTextSplitter**: Used for chunking text into smaller pieces.
-- **Semantic Chunking**:
-  - **NLTK**: For sentence tokenization and similarity-based chunking.
-  - **spaCy**: For fallback semantic chunking and lemmatization.
-
-## 5. Preprocessing
-- **Regex**: For removing unwanted sections like bibliographies.
-- **spaCy**: For advanced preprocessing like lemmatization and stopword removal.
-
-## 6. Knowledge Injection
-- Domain-specific mappings of brain regions and electrode locations.
-- Structured knowledge injected into prompts for enhanced context.
-
-## 7. Storage and Retrieval
-- **FAISS**: For vector-based document retrieval and indexing.
-
-## 8. Integrated Methodologies
-
-### Semantic Processing
-- Domain-based, recursive, and semantic chunking approaches for effective document segmentation.
-
-### Retrieval-Augmented Generation (RAG)
-- Combining vector-based retrieval with LLMs for enhanced document querying and knowledge extraction.
-
-### Chain-of-Thought Prompting
-- Logical reasoning applied within LLM prompts for structured information extraction.
-
-### Knowledge Augmentation
-- Leveraging domain knowledge (e.g., brain regions, electrode locations) for precision in results.
-
-### Correlation Analysis
-- **Spearman’s Rank Correlation**: To compare ranked results.
-- **Kendall’s Tau Correlation**: To validate rankings.
-
-## 9. Filesystem Operations
-- **Pathlib**: For directory and file handling for PDFs.
-- **os**: For managing vector store directories and saving outputs.
-
-## 10. Numerical Operations
-- **NumPy**: For vector operations and cosine similarity calculations.
-
+## Numerical Operations
+- **NumPy**: Vector and matrix computations.
