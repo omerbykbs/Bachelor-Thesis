@@ -21,3 +21,7 @@ This file contains plotting LLM results.
 ## System Design
 
 ![System Design](images/diagram.png)
+
+## Some Results
+
+### Removing Bibliography Part From Document
