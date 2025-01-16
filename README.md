@@ -10,13 +10,13 @@
 ## 📘 Introduction
 This thesis utilizes cosine similarity and large language model (LLM) with Retrieval Augmented Generation (RAG) to extract information from neuroscientific documents containing information about three electroencephalography (EEG) topics motor imagery, auditory attention, internal- external attention. The aim is to automate structured knowledge extraction from these documents in a faster and more precise way,
 
-## System Design
+## 🛠️ System Design
 
 The following image illustrates the general workflow of the methods:
 
 ![System Design](images/diagram.png)
 
-## File Overview
+## 📁 File Overview
 
 This repository consists of 4 main files:
 
@@ -38,7 +38,7 @@ This file contains plotting LLM results.
 
 ---
 
-## Results
+## 📊 Results
 
 ### LLMs Comparison
 
@@ -88,7 +88,7 @@ This file contains plotting LLM results.
 
 ![Repetition Penalty for MI](images/rep-MI.png)
 
-## Libraries and Frameworks
+## 📚 Libraries and Frameworks
 
 ### Programming Language
 - **Python**: Core language for implementation.
@@ -96,7 +96,7 @@ This file contains plotting LLM results.
 ### Machine Learning & NLP
 - **torch**: Deep learning framework for handling models like Meta-Llama.
 - **transformers**: Hugging Face library for model management and text generation.
-- **sentence-transformers**: For semantic embeddings (e.g., `all-MiniLM-L6-v2`).
+- **sentence-transformers**: For semantic embeddings.
 - **LangChain**:
   - Tools: `LLMChain`, `PromptTemplate`, `HuggingFacePipeline`, `PyPDFLoader`, `RecursiveCharacterTextSplitter`.
   - Use Cases: LLM integration, PDF text extraction, and chunking.
