@@ -2,13 +2,22 @@
 
 ## 📑 Table of Contents
 - [Introduction](#introduction)
-- [System Design](#methodology)
+- [System Design](#system-design)
+- [File Overview](#file-overview)
 - [Results](#results)
 - [Tools Used](#tools-used)
 
-## 📑 Introduction
+## Introduction
+📘 This thesis utilizes cosine similarity and large language model (LLM) with Retrieval Augmented Generation (RAG) to extract information from neuroscientific documents containing information about three electroencephalography (EEG) topics motor imagery, auditory attention, internal- external attention. The aim is to automate structured knowledge extraction from these documents in a faster and more precise way,
 
-## Overview
+
+## System Design
+
+The following image illustrates the general workflow of the methods:
+
+![System Design](images/diagram.png)
+
+## File Overview
 
 This repository consists of 4 main files:
 
@@ -24,21 +33,12 @@ This file contains post-processing of LLM results and pre-processing of Eilts' r
 4. **results_plotting.ipynb**
 This file contains plotting LLM results.
 
-**Knowledge Base:** data/pdf_documents 
+**Knowledge Base:** 20 documents per topic in */data/pdf_documents* directory
 
-![Status](https://img.shields.io/badge/Status-Completed-green)
-
+**Ground Truth:** Ranked results from Eilts' master thesis (Eilts, Hendrik. „Bridging the Gap: Explainable AI Insights Into EEGNet Classification and Its Alignment to Neural Correlates“. Advisor: Dr. Felix Putze; Reviewers: Dr. Felix Putze, Prof. Dr. Marvin Wright. MA thesis. Bremen, Germany: University of Bremen, Cognitive Systems Lab, Mar. 2024.)
 
 ---
 
-## System Design
-
-<details>
-<summary>Click to view the system design diagram</summary>
-
-![System Design](images/diagram.png)
-
-</details>
 
 ---
 
