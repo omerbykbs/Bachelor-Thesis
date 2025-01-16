@@ -7,14 +7,20 @@
 - [Results](#results)
 - [Libraries and Frameworks](#libraries-and-frameworks)
 
+---
+
 ## 📘 Introduction
 This thesis utilizes cosine similarity and large language model (LLM) with Retrieval Augmented Generation (RAG) to extract information from neuroscientific documents containing information about three electroencephalography (EEG) topics motor imagery, auditory attention, internal- external attention. The aim is to automate structured knowledge extraction from these documents in a faster and more precise way,
+
+---
 
 ## 🛠️ System Design
 
 The following image illustrates the general workflow of the methods:
 
 ![System Design](images/diagram.png)
+
+---
 
 ## 📁 File Overview
 
@@ -87,6 +93,8 @@ This file contains plotting LLM results.
 ![Repetition Penalty for IEA](images/rep-IE.png)
 
 ![Repetition Penalty for MI](images/rep-MI.png)
+
+---
 
 ## 📚 Libraries and Frameworks
 
