@@ -4,29 +4,17 @@
 
 This repository consists of 4 main files:
 
-<details>
-<summary>1. **compare_similarities.ipynb**</summary>
+1. **compare_similarities.ipynb**
 This file contains similarity matrix calculation and comparisons of similarity matrices according to similarity function and embedding model, along with plotting.
 
-</details>
-
-<details>
-<summary>2. **llm_rag_information_extraction.py**</summary>
+2. **llm_rag_information_extraction.py**
 This file contains text generation with LLM using RAG and exporting LLM result CSV.
 
-</details>
-
-<details>
-**<summary>3. results_evaluate.py</summary>**
+3. results_evaluate.py**
 This file contains post-processing of LLM results and pre-processing of Eilts' results. It also applies ranking to both results and calculates correlation coefficients for them.
 
-</details>
-
-<details>
-<summary>4. **results_plotting.ipynb**</summary>
+4. **results_plotting.ipynb**
 This file contains plotting LLM results.
-
-</details>
 
 **Knowledge Base:** data/pdf_documents 
 
