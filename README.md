@@ -66,9 +66,9 @@ This file contains plotting LLM results.
 
 ![Chunk Combinations for AA](images/chunk-comb-AA.png)
 
-![Chunk Combinations for IEA](images/chunk-comb-IEA-S.png)
+![Chunk Combinations for IEA](images/chunk-comb-IEA.png)
 
-![Chunk Combinations for MI](images/chunk-comb-MI-S.png)
+![Chunk Combinations for MI](images/chunk-comb-MI.png)
 
 ### Removing Bibliography Part From Document
 
