@@ -17,3 +17,6 @@ This file contains post-processing of LLM result and pre-processing of Eilts' re
 
 4. **results_plotting.ipynb ** <br>
 This file contains plotting LLM results.
+
+
+![System Design](images/diagram.png)
