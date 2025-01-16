@@ -18,6 +18,7 @@ This file contains plotting LLM results.
 
 **Knowledge Base:** data/pdf_documents 
 
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 
 ---
