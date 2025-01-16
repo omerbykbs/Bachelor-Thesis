@@ -68,6 +68,12 @@ model.to(device)
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 semantic_embedding_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
+def preprocess_text(text):
+    doc = nlp(text)
+    # Tokenize, remove stop words, punctuation, and lemmatize
+    tokens = [token.lemma_ for token in doc if not token.is_stop and not token.is_punct]
+    return ' '.join(tokens)
+
 def extract_answer_part(output_text):
     # Look for the "ANSWER:" marker
     answer_start = output_text.find("ANSWER:")
@@ -477,6 +483,10 @@ def process_directories(directories, llm, question, rules):
                     
                     # Remove bibliography/references sections
                     documents = remove_bibliography_from_documents(documents)
+
+                    # Preprocess document content using lemmatization
+                    for doc in documents:
+                        doc.page_content = preprocess_text(doc.page_content)
                     
                     # Step 2: Apply recursive chunking
                     text_splitter = RecursiveCharacterTextSplitter(
@@ -549,6 +559,10 @@ def process_directories_semantic_chunking(directories, llm, question, rules):
 
                     # Remove bibliography/references sections
                     documents = remove_bibliography_from_documents(documents)
+
+                    # Preprocess document content using lemmatization
+                    for doc in documents:
+                        doc.page_content = preprocess_text(doc.page_content)
 
                     # Try Semantic Chunking with NLTK
                     try:
@@ -635,6 +649,10 @@ def process_directories_combined_chunking(directories, llm, question, rules):
 
                     # Remove bibliography/references sections
                     documents = remove_bibliography_from_documents(documents)
+
+                    # Preprocess document content using lemmatization
+                    for doc in documents:
+                        doc.page_content = preprocess_text(doc.page_content)
 
                     # Try Semantic Chunking with NLTK
                     try:
@@ -728,6 +746,10 @@ def process_directories_combined_chunking_dif(directories, llm, question, rules)
 
                     # Remove bibliography/references sections
                     documents = remove_bibliography_from_documents(documents)
+
+                    # Preprocess document content using lemmatization
+                    for doc in documents:
+                        doc.page_content = preprocess_text(doc.page_content)
 
                     # Step 2: Apply recursive chunking
                     text_splitter = RecursiveCharacterTextSplitter(
@@ -825,6 +847,10 @@ def process_directories_combined_chunking_with_cot(directories, llm, question, r
                     # Remove bibliography/references sections
                     documents = remove_bibliography_from_documents(documents)
 
+                    # Preprocess document content using lemmatization
+                    for doc in documents:
+                        doc.page_content = preprocess_text(doc.page_content)
+
                     # Try Semantic Chunking with NLTK
                     try:
                         # Step 2: Apply Domain-specific Chunking (optional based on your domain knowledge)
@@ -919,6 +945,10 @@ def process_directories_with_knowledge_augmented_generation(directories, llm, qu
 
                     # Remove bibliography/references sections
                     documents = remove_bibliography_from_documents(documents)
+
+                    # Preprocess document content using lemmatization
+                    for doc in documents:
+                        doc.page_content = preprocess_text(doc.page_content)
 
                     # Try Semantic Chunking with NLTK
                     try:
