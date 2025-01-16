@@ -26,4 +26,6 @@ This file contains plotting LLM results.
 
 ### Removing Bibliography Part From Document
 
+![Bibliography Result](images/bib-AA.png)
+
 ![Bibliography Result](images/bib-MI.png)
