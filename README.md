@@ -1,39 +1,72 @@
 # Automated Extraction and Structuring of Relevant Information from Neuroscientific Documents Using Cosine Similarity and Large Language Model (LLM)
 
-
-
 ## Overview
 
 This repository consists of 4 main files:
 
-1. **compare_similarities.ipynb ** <br>
-This file contains similarity matrix calculation and comprasions of similarity matrices according to similarity function and embedding model and plotting of these.
+<details>
+<summary>1. **compare_similarities.ipynb**</summary>
+This file contains similarity matrix calculation and comparisons of similarity matrices according to similarity function and embedding model, along with plotting.
 
-2. **llm_rag_information_extraction.py ** <br>
-This file contains text-generation with LLM using RAG and exporting LLM result csv.
+</details>
 
-3. **results_evaluate.py ** <br>
-This file contains post-processing of LLM result and pre-processing of Eilts' result. It also apply ranking to both results and calculates correlation coefficients of them.
+<details>
+<summary>2. **llm_rag_information_extraction.py**</summary>
+This file contains text generation with LLM using RAG and exporting LLM result CSV.
 
-4. **results_plotting.ipynb ** <br>
+</details>
+
+<details>
+<summary>3. **results_evaluate.py**</summary>
+This file contains post-processing of LLM results and pre-processing of Eilts' results. It also applies ranking to both results and calculates correlation coefficients for them.
+
+</details>
+
+<details>
+<summary>4. **results_plotting.ipynb**</summary>
 This file contains plotting LLM results.
+
+</details>
+
+---
 
 ## System Design
 
+<details>
+<summary>Click to view the system design diagram</summary>
+
 ![System Design](images/diagram.png)
+
+</details>
+
+---
 
 ## Some Results
 
 ### Removing Bibliography Part From Document
 
+<details>
+<summary>Click to view bibliography results</summary>
+
 ![Bibliography Result](images/bib-AA.png)
+
+![Bibliography Result](images/bib-IEA.png)
 
 ![Bibliography Result](images/bib-MI.png)
 
+</details>
+
+---
+
 ### LLMs Comparison
 
-![Bibliography Result](images/llm-models-AA-S.png)
+<details>
+<summary>Click to view LLM comparison results</summary>
 
-![Bibliography Result](images/llm-models-IEA-S.png)
+![LLM Models Comparison for AA](images/llm-models-AA-S.png)
 
-![Bibliography Result](images/llm-models-MI-S.png)
+![LLM Models Comparison for IEA](images/llm-models-IEA-S.png)
+
+![LLM Models Comparison for MI](images/llm-models-MI-S.png)
+
+</details>
