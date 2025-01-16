@@ -1,0 +1,88 @@
+{
+    "AA": {
+        "Alpha": {
+            "Frontal": 2.0,
+            "Occipital": 1.0,
+            "Temporal": 3.0
+        },
+        "Beta": {
+            "Frontal": 1.0,
+            "Occipital": 2.0,
+            "Temporal": 3.0
+        },
+        "Delta": {
+            "Frontal": 1.0,
+            "Occipital": 2.0,
+            "Temporal": 3.0
+        },
+        "Gamma": {
+            "Frontal": 1.0,
+            "Occipital": 3.0,
+            "Temporal": 2.0
+        },
+        "Theta": {
+            "Frontal": 2.0,
+            "Occipital": 1.0,
+            "Temporal": 3.0
+        }
+    },
+    "IEA": {
+        "Alpha": {
+            "Central": 3.0,
+            "Frontal": 4.0,
+            "Occipital": 1.0,
+            "Parietal": 2.0
+        },
+        "Beta": {
+            "Central": 3.0,
+            "Frontal": 4.0,
+            "Occipital": 1.0,
+            "Parietal": 2.0
+        },
+        "Delta": {
+            "Central": 4.0,
+            "Frontal": 2.0,
+            "Occipital": 1.0,
+            "Parietal": 3.0
+        },
+        "Gamma": {
+            "Central": 3.0,
+            "Frontal": 4.0,
+            "Occipital": 1.0,
+            "Parietal": 2.0
+        },
+        "Theta": {
+            "Central": 3.0,
+            "Frontal": 4.0,
+            "Occipital": 1.0,
+            "Parietal": 2.0
+        }
+    },
+    "MI": {
+        "Alpha": {
+            "Frontal": 3.0,
+            "Motor": 1.0,
+            "Parietal": 2.0
+        },
+        "Beta": {
+            "Frontal": 3.0,
+            "Motor": 1.0,
+            "Parietal": 2.0
+        },
+        "Delta": {
+            "Frontal": 1.0,
+            "Motor": 2.0,
+            "Parietal": 3.0
+        },
+        "Gamma": {
+            "Frontal": 3.0,
+            "Motor": 1.0,
+            "Parietal": 2.0
+        },
+        "Theta": {
+            "Frontal": 2.0,
+            "Motor": 1.0,
+            "Parietal": 3.0
+        }
+    }
+}
