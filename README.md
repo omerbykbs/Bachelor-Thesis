@@ -48,13 +48,21 @@ This file contains plotting LLM results.
 
 ### LLMs Comparison
 
+<details>
+<summary>Click to view LLMs comparison results</summary>
+
 ![LLM Models Comparison for AA](images/llm-models-AA-S.png)
 
 ![LLM Models Comparison for IEA](images/llm-models-IEA-S.png)
 
 ![LLM Models Comparison for MI](images/llm-models-MI-S.png)
 
+</details>
+
 ### Chunk Methods & Prompt Strategies
+
+<details>
+<summary>Click to view Chunk Methods & Prompt Strategies results</summary>
 
 ![Chunk Methods & Prompt Strategies for AA](images/chunk-method-AA-S.png)
 
@@ -62,7 +70,12 @@ This file contains plotting LLM results.
 
 ![Chunk Methods & Prompt Strategies for MI](images/chunk-method-MI-S.png)
 
+</details>
+
 ### Chunking Combinations
+
+<details>
+<summary>Click to view Chunking Combinations results</summary>
 
 ![Chunk Combinations for AA](images/chunk-comb-AA.png)
 
@@ -70,7 +83,12 @@ This file contains plotting LLM results.
 
 ![Chunk Combinations for MI](images/chunk-comb-MI.png)
 
+</details>
+
 ### Removing Bibliography Part From Document
+
+<details>
+<summary>Click to view Removing Bibliography results</summary>
 
 ![Bibliography Result](images/bib-AA.png)
 
@@ -78,7 +96,12 @@ This file contains plotting LLM results.
 
 ![Bibliography Result](images/bib-MI.png)
 
+</details>
+
 ### Chunk & Overlap Size
+
+<details>
+<summary>Click to view Chunk & Overlap Size results</summary>
 
 ![Chunk & Overlap Size Result](images/chunk-size-AA-S.png)
 
@@ -86,13 +109,20 @@ This file contains plotting LLM results.
 
 ![Chunk & Overlap Size Result](images/chunk-size-MI-S.png)
 
+</details>
+
 ### Repetition Penalty
+
+<details>
+<summary>Click to view Repetition Penalty results</summary>
 
 ![Repetition Penalty for AA](images/rep-AA.png)
 
 ![Repetition Penalty for IEA](images/rep-IEA.png)
 
 ![Repetition Penalty for MI](images/rep-MI.png)
+
+</details>
 
 ---
 
