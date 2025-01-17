@@ -113,10 +113,9 @@ This file contains plotting LLM results.
 - **FAISS**: Vector database for document retrieval and similarity search.
 
 ### Statistical Analysis
-- **scipy.stats**: Correlation metrics (`spearmanr`, `kendalltau`).
+- **scipy.stats**: Correlation metrics (Spearman’s and Kendall’s tau for ranked correlation.).
 - **numpy**: Numerical computations, including cosine similarity.
 - **pandas**: Data analysis and CSV handling.
-- **Ranked Correlation Analysis**: Spearman’s and Kendall’s tau for ranking validation.
 
 ### NLP for Text Processing
 - **nltk**: Sentence tokenization for semantic chunking.
