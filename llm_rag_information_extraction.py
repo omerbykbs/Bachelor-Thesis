@@ -6,6 +6,8 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.chains import LLMChain
 #from langchain.docstore.document import Document
+from langgraph.graph_node import graph_node
+from langgraph.graph import Graph
 from langchain.schema import Document
 from langchain.prompts import PromptTemplate
 import torch
