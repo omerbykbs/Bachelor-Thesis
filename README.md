@@ -101,40 +101,35 @@ This file contains plotting LLM results.
 ### Programming Language
 - **Python**: Core language for implementation.
 
-### Machine Learning & NLP
+### Large Language Model (LLM) & Generative AI Ecosystem
 - **torch**: Deep learning framework for handling models like Meta-Llama.
 - **transformers**: Hugging Face library for model management and text generation.
 - **sentence-transformers**: For semantic embeddings.
 - **LangChain**:
   - Tools: `LLMChain`, `PromptTemplate`, `HuggingFacePipeline`, `PyPDFLoader`, `RecursiveCharacterTextSplitter`.
   - Use Cases: LLM integration, PDF text extraction, and chunking.
+- **LangGraph**: For advanced visualization of document structures and knowledge graph representations.
+- **LangSmith**: For real-time monitoring and debugging of LLM chains and workflows.
 - **FAISS**: Vector database for document retrieval and similarity search.
 
 ### Statistical Analysis
 - **scipy.stats**: Correlation metrics (`spearmanr`, `kendalltau`).
 - **numpy**: Numerical computations, including cosine similarity.
 - **pandas**: Data analysis and CSV handling.
+- **Ranked Correlation Analysis**: Spearman’s and Kendall’s tau for ranking validation.
 
-### Text Processing
+### NLP for Text Processing
 - **nltk**: Sentence tokenization for semantic chunking.
 - **spaCy**: Preprocessing, lemmatization, and fallback chunking.
 - **re**: Regular expressions for text cleaning and processing.
-
-### Data Handling and Filesystem
-- **os**, **pathlib**: File and directory management.
-- **joblib**: Serialization of models and data.
-
-### Logging
-- **logging**: Error tracking and debugging.
 
 ### Models and Data
 - **Meta-Llama-3.1-70B-AQLM-PV**, **Meta-Llama-3-8B-Instruct**, **Meta-Llama-3.1-8B-Instruct**: LLM for text generation.
 - **sentence-transformers/all-MiniLM-L6-v2**: Embedding generation.
 - **Datasets**: Neuroscientific PDFs (Motor Imagery, Auditory Attention, IE Attention), Hendrik's XAI Results.
 
-### Integrated Methodologies
-- **Semantic Processing**: Domain-specific, recursive, and semantic chunking for text segmentation.
+### Integrated LLM Methodologies
 - **Retrieval-Augmented Generation (RAG)**: Combines FAISS-based retrieval with LLMs for enhanced knowledge extraction.
+- **Chunking Methods**: Domain-specific, recursive, and semantic chunking for text segmentation.
 - **Chain-of-Thought Prompting**: Enables structured and logical reasoning in prompts.
-- **Knowledge Augmentation**: Injects domain-specific mappings (brain regions, electrode locations) for context precision.
-- **Correlation Analysis**: Spearman’s and Kendall’s tau for ranking validation.
+- **Knowledge Augmentation Prompting**: Injects domain-specific mappings (brain regions, electrode locations) for context precision.
