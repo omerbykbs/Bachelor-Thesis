@@ -1,11 +1,14 @@
 # Top 10 Rows from CSV
 
-| Document   | Region    | Frequency Band   |
-|:-----------|:----------|:-----------------|
-| 34.pdf     | Frontal   | Beta             |
-| 34.pdf     | Central   | Beta             |
-| 34.pdf     | Motor     | Beta             |
-| 34.pdf     | Parietal  | Beta             |
-| 34.pdf     | Temporal  | Beta             |
-| 34.pdf     | Occipital | Beta             |
-| 37.pdf     | Parietal  | Beta             |
+| Document   | Region                 | Frequency Band   |
+|:-----------|:-----------------------|:-----------------|
+| 10.pdf     | Motor Cortex           | Alpha            |
+| 10.pdf     | Barbiturate Anesthesia | Alpha            |
+| 10.pdf     | Light Sleep            | Alpha            |
+| 34.pdf     | Frontal                | Delta            |
+| 34.pdf     | Frontal                | Theta            |
+| 34.pdf     | Frontal                | Alpha            |
+| 34.pdf     | Frontal                | Beta             |
+| 34.pdf     | Frontal                | Gamma            |
+| 34.pdf     | Central                | Delta            |
+| 34.pdf     | Central                | Theta            |
