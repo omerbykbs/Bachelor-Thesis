@@ -47,8 +47,8 @@ This file contains plotting LLM results.
 ## 📊 Results
 
 #### LLM Results
-**Top 10 lines of an LLM output**: 
-[View Top 10 Rows](images/top_10_rows.md)
+**Have an insight to LLM outputs before post-processing**: 
+[View Top 10 Rows](data/results/LLM_output.md)
 
 ### LLMs Comparison
 
