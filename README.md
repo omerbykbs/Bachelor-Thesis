@@ -46,7 +46,7 @@ This file contains plotting LLM results.
 
 ## 📊 Results
 
-**LLM Results to have an insight**: <br>
+**LLM Results for having an insight**: <br>
 
 [View First 10 Rows of Raw LLM-Output](data/results/llm-results/LLM_output.md) <br>
 
