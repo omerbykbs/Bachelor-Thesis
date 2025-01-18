@@ -1,4 +1,4 @@
-# First 10 Rows of LLM output for having an insight
+# First 10 rows of LLM output for having an insight
 
 | Document   | Region                 | Frequency Band   |
 |:-----------|:-----------------------|:-----------------|
