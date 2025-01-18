@@ -1,4 +1,4 @@
-# Top 10 Rows from CSV
+# First 10 Rows of LLM output for having an insight
 
 | Document   | Region                 | Frequency Band   |
 |:-----------|:-----------------------|:-----------------|
