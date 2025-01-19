@@ -168,6 +168,6 @@ This file contains plotting LLM results.
 
 ### Integrated LLM Methodologies
 - **Retrieval-Augmented Generation (RAG)**: Combines FAISS-based retrieval with LLMs for enhanced knowledge extraction.
-- **Chunking Methods**: Domain-specific, recursive, and semantic chunking for text segmentation.
+- **Chunking Methods**: Domain-specific, recursive, semantic chunking and combination of them for text segmentation.
 - **Chain-of-Thought Prompting**: Enables structured and logical reasoning in prompts.
 - **Knowledge Augmentation Prompting**: Injects domain-specific mappings (brain regions, electrode locations) for context precision.
