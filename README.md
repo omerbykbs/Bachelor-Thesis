@@ -164,7 +164,6 @@ This file contains plotting LLM results.
 ### Models and Data
 - **Meta-Llama-3.1-70B-AQLM-PV**, **Meta-Llama-3-8B-Instruct**, **Meta-Llama-3.1-8B-Instruct**: LLM for text generation.
 - **sentence-transformers/all-MiniLM-L6-v2, all-MiniLM-L12-v2, all-mpnet-base-v2, all-distilroberta-v1**: Embedding generation.
-- **Similarity metrics:** Cosine, Dot, Euclidean, Manhattan.
 - **Datasets**: Neuroscientific PDFs (Motor Imagery, Auditory Attention, IE Attention), Hendrik's XAI Results.
 
 ### Integrated LLM Methodologies
