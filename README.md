@@ -1,6 +1,6 @@
 # Bachelor Thesis: Automated Extraction and Structuring of Relevant Information from Neuroscientific Documents Using Cosine Similarity and Large Language Model (LLM)
 
-## 📑 Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [System Design](#system-design)
 - [File Overview](#file-overview)
@@ -14,7 +14,7 @@ This thesis utilizes cosine similarity and large language model (LLM) with Retri
 
 ---
 
-## 🛠️ System Design
+## System Design
 
 The following image illustrates the general workflow of the methods:
 
@@ -22,18 +22,7 @@ The following image illustrates the general workflow of the methods:
 
 ---
 
-## File Overview
-
-This repository consists of 4 main files:
-
-1. **compare_similarities.ipynb**
-This file contains similarity matrix calculation and comparisons of similarity matrices according to similarity function and embedding model, along with plotting.
-
-2. **llm_rag_information_extraction.py**
-This file contains text generation with LLM using RAG and exporting LLM result CSV.
-
-3. results_evaluate.py**
-This file contains post-processing of LLM results and pre-processing of Eilts' results. It also applies ranking to both results and calculates correlation coefficients for them.
+## Overview
 
 **Knowledge Base:** 20 documents per topic in [pdf_documents](./data/pdf_documents) directory.
 
