@@ -124,7 +124,7 @@ The following image illustrates the general workflow of the methods:
 ## Libraries and Frameworks
 
 ### Large Language Model (LLM)
-**torch**, **transformers**, **sentence-transformers**, **LangChain**, **LangGraph**, **LangSmith**, **FAISS**
+- `transformers`, `torch`, `sentence-transformers`, `LangChain`, `LangGraph`, `LangSmith`, `FAISS`
 
 ### Statistical Analysis
 **scipy.stats**, **numpy**, **pandas**
