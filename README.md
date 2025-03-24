@@ -121,9 +121,9 @@ The following image illustrates the general workflow of the methods:
 
 ---
 
-## Libraries and Frameworks
+## Tech Stack & Key Tools
 
-### Large Language Model (LLM)
+### LLMs 
 - `transformers`, `torch`, `sentence-transformers`, `LangChain`, `LangGraph`, `LangSmith`, `FAISS`
 
 ### NLP and Text Preprocessing
@@ -136,7 +136,7 @@ The following image illustrates the general workflow of the methods:
 - Meta: `Meta-Llama-3.1-70B-AQLM-PV`, `Meta-Llama-3-8B-Instruct`, `Meta-Llama-3.1-8B-Instruct`
 - Sentence Embedding: `all-MiniLM-L6-v2`, `all-MiniLM-L12-v2`, `all-mpnet-base-v2`, `all-distilroberta-v1`
 
-### Techniques Implemented
-- Retrieval-Augmented Generation (RAG)
-- Chunking (recursive, domain-specific, semantic)
-- Prompting (chain-of-thought, knowledge-augmented)
+### Key Techniques
+- **Retrieval-Augmented Generation (RAG)**
+- **Chunking Strategies**: Semantic, Domain-Specific, Recursive
+- **Prompt Engineering**: Chain-of-Thought, Knowledge-Augmentation
