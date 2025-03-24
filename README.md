@@ -126,17 +126,18 @@ The following image illustrates the general workflow of the methods:
 ### Large Language Model (LLM)
 - `transformers`, `torch`, `sentence-transformers`, `LangChain`, `LangGraph`, `LangSmith`, `FAISS`
 
-### Statistical Analysis
-**scipy.stats**, **numpy**, **pandas**
+### NLP and Text Preprocessing
+- `nltk`, `spaCy`, `re`
 
-### NLP for Text Processing
-**nltk**, **spaCy**, **re**:
+### Statistical Analysis & Data Handling
+- `numpy`, `pandas`, `scipy.stats`
 
-### Models
-- **Meta-Llama-3.1-70B-AQLM-PV**, **Meta-Llama-3-8B-Instruct**, **Meta-Llama-3.1-8B-Instruct**: LLM for text generation.
-- **all-MiniLM-L6-v2, all-MiniLM-L12-v2, all-mpnet-base-v2, all-distilroberta-v1**
+### LLM Models Used
+- Meta: `Meta-Llama-3.1-70B-AQLM-PV`, `Meta-Llama-3-8B-Instruct`, `Meta-Llama-3.1-8B-Instruct`
+- Sentence Embedding: `all-MiniLM-L6-v2`, `all-MiniLM-L12-v2`, `all-mpnet-base-v2`, `all-distilroberta-v1`
 
-### Integrated LLM Strategies and Techniques
-- **Retrieval-Augmented Generation (RAG)**
-- **Chunking Methods**: Domain-specific chunking, recursive chunking, semantic chunking and combination of them for text segmentation.
+### Techniques Implemented
+- Retrieval-Augmented Generation (RAG)
+- Chunking (recursive, domain-specific, semantic)
+- Prompting (chain-of-thought, knowledge-augmented)
 - **Prompting Methods**: Chain-of-thought prompting, knowledge augmentation prompting
