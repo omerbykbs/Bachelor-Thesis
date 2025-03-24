@@ -140,4 +140,3 @@ The following image illustrates the general workflow of the methods:
 - Retrieval-Augmented Generation (RAG)
 - Chunking (recursive, domain-specific, semantic)
 - Prompting (chain-of-thought, knowledge-augmented)
-- **Prompting Methods**: Chain-of-thought prompting, knowledge augmentation prompting
